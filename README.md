@@ -11,3 +11,6 @@
 
 ## Para crear la BD
 ```php artisan doctrine:schema:create```
+
+### Para limpiar la BD
+```php artisan doctrine:schema:drop```
